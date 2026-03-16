@@ -1,0 +1,10 @@
+{
+  "model": "gpt-image-1",
+  "concept": "Network graph representing interconnected nodes in a data science or machine learning system",
+  "tradition": {
+    "name": "Ukiyo-e Japanese Woodblock Print",
+    "period": "Edo period (17th–19th century)"
+  },
+  "historical_characteristics_targeted": "The image targets key formal characteristics of Edo-period Ukiyo-e prints, especially aizuri-e (indigo prints). These include a restricted indigo-blue palette, large flat color fields without shading, bold carved contour lines, visible woodblock-like line textures within shapes, and decorative motifs such as stylized clouds and wave curls. The composition emphasizes balance and rhythmic flow rather than perspective depth, with strong use of negative space and ornamental patterning. The goal was to embed the abstract network graph (nodes and edges) into the decorative language of Ukiyo-e so that the connections resemble flowing ribbons or currents within a traditional print composition.",
+  "prompt": "An Edo-period Japanese Ukiyo-e woodblock print depicting an abstract network graph as an ornamental composition. Circular nodes connected by flowing curved lines form a complex web across the image. Render the scene in an aizuri-e style using a limited indigo-blue palette with flat color areas and carved woodblock linework. The nodes resemble patterned spheres with subtle woodgrain textures, while the connecting edges flow like ribbons or currents. Integrate traditional Ukiyo-e decorative elements such as stylized clouds and wave motifs around the network so the structure feels like part of a natural atmospheric pattern. Use balanced composition, strong negative space, and authentic woodblock print aesthetics."
+}
