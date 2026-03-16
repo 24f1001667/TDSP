@@ -1,9 +1,6 @@
 {
-  "prompt": "A cinematic overhead shot of a vibrant garden where 80 percent is covered by a stark, brutalist concrete shadow, dramatic lighting --v 6.1",
+  "prompt": "A wide shot of a cracked, dry desert landscape with ten traditional clay water jugs lined up in a row. The first two or three jugs are upright and full of fresh water, while the remaining jugs are overturned, empty, and spilling dry dust onto the parched earth. Realistic photography, cinematic lighting, profound emotional weight, no text or infographic elements --v 6.1",
   "model": "Midjourney v6.1",
-  "concept": "80 percent of native bee populations have disappeared in the last decade.",
-  "metaphor": "A garden where the majority of the space is swallowed by a lifeless concrete shadow to represent the percentage lost.",
-  "dataset_name": "Global Bee Population Decline",
-  "dataset_url": "https://ourworldindata.org/bee-populations",
-  "insight": "80 percent of native bee populations have disappeared in the last decade."
+  "concept": "1 in 4 people globally lack access to safely managed drinking water.",
+  "metaphor": "A row of water vessels in a parched landscape where only a fraction hold life-saving water, while the majority are overturned and empty, making the viewer physically feel the ratio of scarcity.",
 }
